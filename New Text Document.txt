@@ -1,0 +1,2 @@
+Tutorial from https://www.youtube.com/watch?v=I1ydigiZ25g
+https://github.com/DanielMichalski/spring-boot-rest-example
